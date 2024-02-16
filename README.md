@@ -10,3 +10,4 @@
 Badshahacke/Badshahacke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+beta Kay Hal ha badshahacke na Tera Pura system hacke Kar Lia ha ab tum 5000 do or apna Sara system wapas la lo nahi to kuch bhi ho sakta ha 
